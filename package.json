@@ -22,9 +22,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": {
-    "name": "taibushuang",
-    "email": "sunyifei84@gmail.com"
+  "author": "taibushuang <sunyifei84@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibushuang/wechat-jsapi-cached.git"
   },
-  "license": "BSD 2-Clause License"
+  "keywords": [
+    "wechat",
+    "jsapi",
+    "cached"
+  ],
+  "bugs": {
+    "url": "https://github.com/taibushuang/wechat-jsapi-cached/issues"
+  },
+  "homepage": "https://github.com/taibushuang/wechat-jsapi-cached#readme"
 }
